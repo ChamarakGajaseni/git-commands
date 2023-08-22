@@ -5,7 +5,7 @@
 
 1. List all your remote repositories and show their URLs:
    ```
-   Todo write the git command for this
+   
    ```
 
 2. View details about a remote repo named `origin`, including all the remote branches and local tracking branches for `origin`:
